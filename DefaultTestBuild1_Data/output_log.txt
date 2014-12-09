@@ -1,0 +1,22 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M    (ID=0xfe9)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\WORKSPACE\escape-the-room\GAME\DefaultTestBuild1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\WORKSPACE\escape-the-room\GAME\DefaultTestBuild1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\WORKSPACE\escape-the-room\GAME\DefaultTestBuild1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\WORKSPACE\escape-the-room\GAME\DefaultTestBuild1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\WORKSPACE\escape-the-room\GAME\DefaultTestBuild1_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\WORKSPACE\escape-the-room\GAME\DefaultTestBuild1_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\WORKSPACE\escape-the-room\GAME\DefaultTestBuild1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\WORKSPACE\escape-the-room\GAME\DefaultTestBuild1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.080 seconds
+desktop: 2880x1800 60Hz; virtual: 4800x1800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\WORKSPACE\escape-the-room\GAME\DefaultTestBuild1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\WORKSPACE\escape-the-room\GAME\DefaultTestBuild1_Data\Managed\Boo.Lang.dll (this message is harmless)
